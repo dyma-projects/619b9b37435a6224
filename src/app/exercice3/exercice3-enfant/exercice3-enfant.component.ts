@@ -9,7 +9,7 @@ export class Exercice3EnfantComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
 
 }
